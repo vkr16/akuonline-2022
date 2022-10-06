@@ -33,6 +33,16 @@
     color: #1e293b;
 }
 
+/* Custom Style */
+.project-thumb{
+    transform: scale(1);
+    transition-duration: 0.2s;
+}
+.project-thumb:hover{
+    transform: scale(0.97);
+    transition-duration: 0.2s;
+}
+
 /* Config Override */
 a {
     text-decoration: none;
@@ -59,4 +69,9 @@ input[type="checkbox"]:checked,
     border-color: #ef4444 !important;
     box-shadow: none !important;
     outline: 0 none !important;
+}
+
+.is-invalid,
+.is-valid {
+    box-shadow: none !important;
 }

@@ -84,13 +84,13 @@
                     </span>
                 </div>
                 <div class="col-md-3 col-sm-6 p-2">
-                    <img src="public/assets/img/mandrapostel.png" width="100%" alt="">
+                    <img src="public/assets/img/mandrapostel.png" width="100%" alt="" class="project-thumb">
                 </div>
                 <div class="col-md-3 col-sm-6 p-2">
-                    <img src="public/assets/img/ptrksn.png" width="100%" alt="">
+                    <img src="public/assets/img/ptrksn.png" width="100%" alt="" class="project-thumb">
                 </div>
                 <div class="col-md-3 col-sm-6 p-2">
-                    <img src="public/assets/img/edubmn.png" width="100%" alt="">
+                    <img src="public/assets/img/edubmn.png" width="100%" alt="" class="project-thumb">
                 </div>
             </div>
         </div>
@@ -107,7 +107,7 @@
                             <img src="public/assets/img/kaharudin.jpg" width="100px" class="rounded-circle mb-3" alt="">
                             <div class="text-center">
                                 <blockquote class="blockquote">
-                                    <p class="col-md-8 offset-md-2 lh-sm">“Kerjasama yang baik dengan mas Fikri, cukup fast respon dan sangat memahami hal yang dibutuhkan saya selaku client.”</p>
+                                    <p class="col-8 offset-2 lh-sm fs-5">“Kerjasama yang baik dengan mas Fikri, cukup fast respon dan sangat memahami hal yang dibutuhkan saya selaku client.”</p>
                                     <span class="text-red">
                                         <i class="fa-solid fa-star"></i>
                                         <i class="fa-solid fa-star"></i>
@@ -127,7 +127,7 @@
                             <img src="public/assets/img/iqbal.png" width="100px" class="rounded-circle mb-3" alt="">
                             <div class="text-center">
                                 <blockquote class="blockquote">
-                                    <p class="col-md-8 offset-md-2 lh-sm">“Responsif dan responsible terhadap request client, serta koperatif terhadap clientnya. Sangat puas dengan pelayanan yg diberkan 👍”</p>
+                                    <p class="col-8 offset-2 lh-sm fs-5">“Responsif dan responsible terhadap request client, serta koperatif terhadap clientnya. Sangat puas dengan pelayanan yg diberkan 👍”</p>
                                     <span class="text-red">
                                         <i class="fa-solid fa-star"></i>
                                         <i class="fa-solid fa-star"></i>
@@ -147,7 +147,7 @@
                             <img src="public/assets/img/user-silhouette.png" width="100px" class="rounded-circle mb-3" alt="">
                             <div class="text-center">
                                 <blockquote class="blockquote">
-                                    <p class="col-md-8 offset-md-2 lh-sm">“Pemahaman mengenai proyek sangat baik, respon dan kwalitas kerja diselesaikan sesuai ekspektasi. Thank you.”</p>
+                                    <p class="col-8 offset-2 lh-sm fs-5">“Pemahaman mengenai proyek sangat baik, respon dan kwalitas kerja diselesaikan sesuai ekspektasi. Thank you.”</p>
                                     <span class="text-red">
                                         <i class="fa-solid fa-star"></i>
                                         <i class="fa-solid fa-star"></i>
@@ -167,7 +167,7 @@
                             <img src="public/assets/img/wellyne.jpg" width="100px" class="rounded-circle mb-3" alt="">
                             <div class="text-center">
                                 <blockquote class="blockquote">
-                                    <p class="col-md-8 offset-md-2 lh-sm">“Pengerjaan project sangat cepat. Memuaskan dan sangat membantu.”</p>
+                                    <p class="col-8 offset-2 lh-sm fs-5">“Pengerjaan project sangat cepat. Memuaskan dan sangat membantu.”</p>
                                     <span class="text-red">
                                         <i class="fa-solid fa-star"></i>
                                         <i class="fa-solid fa-star"></i>
@@ -187,7 +187,7 @@
                             <img src="public/assets/img/user-silhouette2.png" width="100px" class="rounded-circle mb-3" alt="">
                             <div class="text-center">
                                 <blockquote class="blockquote">
-                                    <p class="col-md-8 offset-md-2 lh-sm">“Alhamdulillah, friendly juga dalam pekerjaannya. waktu sesuai dengan permintaanya. Keep it up!”</p>
+                                    <p class="col-8 offset-2 lh-sm fs-5">“Alhamdulillah, friendly juga dalam pekerjaannya. waktu sesuai dengan permintaanya. Keep it up!”</p>
                                     <span class="text-red">
                                         <i class="fa-solid fa-star"></i>
                                         <i class="fa-solid fa-star"></i>
@@ -217,7 +217,7 @@
 
     <section id="contact-section">
         <div class="container-md my-5 py-5" style="max-width: 1080px">
-            <div class="row">
+            <div class="row d-flex align-items-center">
                 <div class="col-md-6">
                     <div class="d-flex">
                         <i class="fa-brands fa-square-whatsapp fa-3x me-3 text-red"></i>
@@ -240,21 +240,28 @@
                 </div>
                 <div class="col-md-6">
                     <h2 class="font-signika-negative fw-semibold mb-3">I'll be glad to hear from you, Let's get in touch👋</h2>
-                    <form action="">
-                        <div class="mb-3">
-                            <label for="inputName">Name</label>
-                            <input class="form-control rounded-0" type="text" name="name" id="inputName" require autocomplete="name">
-                        </div>
-                        <div class="mb-3">
-                            <label for="inputEmail">Email</label>
-                            <input class="form-control rounded-0" type="email" name="email" id="inputEmail" require autocomplete="email">
-                        </div>
-                        <div class="mb-3">
-                            <label for="inputMessage">Message</label>
-                            <textarea class="form-control rounded-0" name="message" id="inputMessage" style="max-height: 200px; min-height: 90px;"></textarea>
-                        </div>
-                        <button class="btn btn-red rounded-0">Send <i class="fa-solid fa-paper-plane"></i></button>
-                    </form>
+                    <div class="mb-3">
+                        <label for="inputName">Name</label>
+                        <input class="form-control rounded-0" type="text" name="name" id="inputName" required autocomplete="name">
+                    </div>
+                    <div class="mb-3">
+                        <label for="inputEmail">Email</label>
+                        <input class="form-control rounded-0" type="email" name="email" id="inputEmail" required autocomplete="email">
+                    </div>
+                    <div class="mb-3">
+                        <label for="inputMessage">Message</label>
+                        <textarea required class="form-control rounded-0" name="message" id="inputMessage" style="max-height: 200px; min-height: 90px;"></textarea>
+                    </div>
+                    <button class="btn btn-red rounded-0" onclick="sendmail()">Send <i class="fa-solid fa-paper-plane"></i></button>
+
+                    <div class="alert alert-success rounded-0 mt-3 alert-dismissible" role="alert" id="mail-success-feedback" style="display: none">
+                        Message has been sent successfully!
+                        <span type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></span>
+                    </div>
+                    <div class="alert alert-danger rounded-0 mt-3 alert-dismissible" role="alert" id="mail-fail-feedback" style="display: none">
+                        Failed to sent message!
+                        <span type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></span>
+                    </div>
                 </div>
             </div>
         </div>
@@ -267,7 +274,50 @@
         </div>
     </section>
 
-    <script src=" public/assets/library/bootstrap-5.2.1/js/bootstrap.bundle.min.js"></script>
+    <script src="public/assets/library/bootstrap-5.2.1/js/bootstrap.bundle.min.js"></script>
+    <script src="public/assets/library/jquery-3.6.1.min.js"></script>
+    <script src="public/assets/library/notiflix-aio-3.2.5.min.js"></script>
+    <script>
+        Notiflix.Loading.init({
+            svgColor: '#ef4444',
+        });
+
+        function requiredFieldCheck() {
+            $('#inputName').val() == '' ? $('#inputName').addClass('is-invalid') : $('#inputName').removeClass('is-invalid')
+            $('#inputEmail').val() == '' ? $('#inputEmail').addClass('is-invalid') : $('#inputEmail').removeClass('is-invalid')
+            $('#inputMessage').val() == '' ? $('#inputMessage').addClass('is-invalid') : $('#inputMessage').removeClass('is-invalid')
+        }
+
+        function sendmail() {
+            requiredFieldCheck()
+            var name = $('#inputName').val()
+            var email = $('#inputEmail').val()
+            var message = $('#inputMessage').val()
+            if ($('#inpurName').val() != '' &&
+                $('#inputEmail').val() != '' &&
+                $('#inputMessage').val() != '') {
+                Notiflix.Loading.hourglass()
+                $.post("contact/sendmail", {
+                        name: name,
+                        email: email,
+                        message: message
+                    })
+                    .done(function(data) {
+                        Notiflix.Loading.remove()
+                        if (data == "berhasil") {
+                            $('#mail-success-feedback').show()
+                            $('#mail-fail-feedback').hide()
+                            $('#inputName').val('')
+                            $('#inputEmail').val('')
+                            $('#inputMessage').val('')
+                        } else {
+                            $('#mail-success-feedback').hide()
+                            $('#mail-fail-feedback').show()
+                        }
+                    });
+            }
+        }
+    </script>
 </body>
 
 </html>
