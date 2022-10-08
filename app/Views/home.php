@@ -80,7 +80,7 @@
                     <span>
                         <h1 class="font-signika-negative fw-semibold mb-0">Projects</h1>
                         <p class="font-nunito-sans">Projects that I've completed</p>
-                        <button class="btn btn-red rounded-0">Show all <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <button class="btn btn-red rounded-0" onclick="comingsoon()">Show all <i class="fa-solid fa-arrow-right-long"></i></button>
                     </span>
                 </div>
                 <div class="col-md-3 col-sm-6 p-2">
@@ -316,6 +316,10 @@
                         }
                     });
             }
+        }
+
+        function comingsoon() {
+            Notiflix.Notify.info("I'm so sorry, this feature is under maintenance 🙏")
         }
     </script>
 </body>
