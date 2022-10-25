@@ -34,12 +34,12 @@
 }
 
 /* Custom Style */
-.project-thumb{
-    transform: scale(1);
+.project-thumb,.project-thumb + p{
+    transform: scale(0.97);
     transition-duration: 0.2s;
 }
-.project-thumb:hover{
-    transform: scale(0.97);
+.project-thumb:hover,.project-thumb:hover + p{
+    transform: scale(1);
     transition-duration: 0.2s;
 }
 

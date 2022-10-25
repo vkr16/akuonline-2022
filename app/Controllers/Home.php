@@ -25,4 +25,9 @@ class Home extends BaseController
             return "gagal";
         }
     }
+
+    public function projects()
+    {
+        return view('projects');
+    }
 }

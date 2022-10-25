@@ -17,7 +17,7 @@
         <nav class="navbar bg-white">
             <div class="container-md" style="max-width:1080px">
                 <span class="navbar-brand mb-0 h1">
-                    <img src="public/assets/img/logo.png" width="60px" alt="">
+                    <a href="<?= base_url('') ?>"><img src="public/assets/img/logo.png" width="60px" alt=""></a>
                 </span>
                 <a href="#contact-section" class="btn btn-red rounded-0">Contact Me</a>
             </div>
@@ -80,17 +80,17 @@
                     <span>
                         <h1 class="font-signika-negative fw-semibold mb-0">Projects</h1>
                         <p class="font-nunito-sans">Projects that I've completed</p>
-                        <button class="btn btn-red rounded-0" onclick="comingsoon()">Show all <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <a href="<?= base_url('projects') ?>" class="btn btn-red rounded-0">Show all <i class="fa-solid fa-arrow-right-long"></i></a>
                     </span>
                 </div>
                 <div class="col-md-3 col-sm-6 p-2">
-                    <img src="public/assets/img/mandrapostel.png" width="100%" alt="" class="project-thumb">
+                    <img src="public/assets/img/project-thumbnail/mandrapostel.png" width="100%" alt="" class="project-thumb">
                 </div>
                 <div class="col-md-3 col-sm-6 p-2">
-                    <img src="public/assets/img/ptrksn.png" width="100%" alt="" class="project-thumb">
+                    <img src="public/assets/img/project-thumbnail/ptrksn.png" width="100%" alt="" class="project-thumb">
                 </div>
                 <div class="col-md-3 col-sm-6 p-2">
-                    <img src="public/assets/img/edubmn.png" width="100%" alt="" class="project-thumb">
+                    <img src="public/assets/img/project-thumbnail/edubmn.png" width="100%" alt="" class="project-thumb">
                 </div>
             </div>
         </div>
@@ -104,7 +104,7 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active text-center">
                         <span>
-                            <img src="public/assets/img/kaharudin.jpg" width="100px" class="rounded-circle mb-3" alt="">
+                            <img src="public/assets/img/testimonial-photo/kaharudin.jpg" width="100px" class="rounded-circle mb-3" alt="">
                             <div class="text-center">
                                 <blockquote class="blockquote">
                                     <p class="col-8 offset-2 lh-sm fs-5">“Kerjasama yang baik dengan mas Fikri, cukup fast respon dan sangat memahami hal yang dibutuhkan saya selaku client.”</p>
@@ -124,7 +124,7 @@
                     </div>
                     <div class="carousel-item text-center">
                         <span>
-                            <img src="public/assets/img/iqbal.png" width="100px" class="rounded-circle mb-3" alt="">
+                            <img src="public/assets/img/testimonial-photo/iqbal.png" width="100px" class="rounded-circle mb-3" alt="">
                             <div class="text-center">
                                 <blockquote class="blockquote">
                                     <p class="col-8 offset-2 lh-sm fs-5">“Responsif dan responsible terhadap request client, serta koperatif terhadap clientnya. Sangat puas dengan pelayanan yg diberkan 👍”</p>
@@ -144,7 +144,7 @@
                     </div>
                     <div class="carousel-item text-center">
                         <span>
-                            <img src="public/assets/img/user-silhouette.png" width="100px" class="rounded-circle mb-3" alt="">
+                            <img src="public/assets/img/testimonial-photo/user-silhouette.png" width="100px" class="rounded-circle mb-3" alt="">
                             <div class="text-center">
                                 <blockquote class="blockquote">
                                     <p class="col-8 offset-2 lh-sm fs-5">“Pemahaman mengenai proyek sangat baik, respon dan kwalitas kerja diselesaikan sesuai ekspektasi. Thank you.”</p>
@@ -164,7 +164,7 @@
                     </div>
                     <div class="carousel-item text-center">
                         <span>
-                            <img src="public/assets/img/wellyne.jpg" width="100px" class="rounded-circle mb-3" alt="">
+                            <img src="public/assets/img/testimonial-photo/wellyne.jpg" width="100px" class="rounded-circle mb-3" alt="">
                             <div class="text-center">
                                 <blockquote class="blockquote">
                                     <p class="col-8 offset-2 lh-sm fs-5">“Pengerjaan project sangat cepat. Memuaskan dan sangat membantu.”</p>
@@ -184,7 +184,7 @@
                     </div>
                     <div class="carousel-item text-center">
                         <span>
-                            <img src="public/assets/img/user-silhouette2.png" width="100px" class="rounded-circle mb-3" alt="">
+                            <img src="public/assets/img/testimonial-photo/user-silhouette2.png" width="100px" class="rounded-circle mb-3" alt="">
                             <div class="text-center">
                                 <blockquote class="blockquote">
                                     <p class="col-8 offset-2 lh-sm fs-5">“Alhamdulillah, friendly juga dalam pekerjaannya. waktu sesuai dengan permintaanya. Keep it up!”</p>
@@ -198,6 +198,26 @@
                                 </blockquote>
                                 <figcaption class="blockquote-footer">
                                     Iqbal F. <cite title="Source Title" class="text-slate">(via Fastwork.id)</cite>
+                                </figcaption>
+                            </div>
+                        </span>
+                    </div>
+                    <div class="carousel-item text-center">
+                        <span>
+                            <img src="public/assets/img/testimonial-photo/user-silhouette.png" width="100px" class="rounded-circle mb-3" alt="">
+                            <div class="text-center">
+                                <blockquote class="blockquote">
+                                    <p class="col-8 offset-2 lh-sm fs-5">“Bisa mengerti kemauan client dan bisa improve dari kemauan client. Recommended!”</p>
+                                    <span class="text-red">
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                    </span>
+                                </blockquote>
+                                <figcaption class="blockquote-footer">
+                                    Winaldi W. <cite title="Source Title" class="text-slate">(via Fastwork.id)</cite>
                                 </figcaption>
                             </div>
                         </span>
