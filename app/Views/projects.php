@@ -20,7 +20,11 @@
                 <span class="navbar-brand mb-0 h1">
                     <a href="<?= base_url('') ?>"><img src="public/assets/img/logo.png" width="60px" alt=""></a>
                 </span>
-                <a href="<?= base_url('') ?>" class="btn btn-red rounded-0">Home</a>
+                <span>
+                    <a href="<?= base_url('projects') ?>" class="btn btn-red rounded-0 me-3">Projects</a>
+                    <a href="<?= base_url('#contact-section') ?>" class="btn btn-outline-red rounded-0 me-3">Contact Me</a>
+                    <a href="<?= base_url('') ?>" class="btn btn-outline-red rounded-0">Home</a>
+                </span>
             </div>
         </nav>
     </section>
@@ -30,34 +34,34 @@
             <h1 class="text-center font-signika-negative fw-semibold mb-0">Projects</h1>
             <hr style="width: 128px; border: 2px solid #ef4444" class="opacity-100 mt-1 mb-5 mx-auto">
             <div class="row mx-0">
-                <div class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4">
+                <a href="<?= base_url('project/wash-inn-garage') ?>" class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4 text-dark">
                     <img src="<?= base_url('public/assets/img/project-thumbnail/washinngarage.png') ?>" class="project-thumb" width="100%" alt="">
                     <p class="font-nunito text-center mt-3">"Wash Inn Garage" Operational & Order Management System</p>
-                </div>
-                <div class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4">
+                </a>
+                <a href="<?= base_url('project/co-lab') ?>" class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4 text-dark">
                     <img src="<?= base_url('public/assets/img/project-thumbnail/colab.png') ?>" class="project-thumb" width="100%" alt="">
                     <p class="font-nunito text-center mt-3">Lab & Co-working Space Booking System for Brawijaya University Vocational Campus</p>
-                </div>
-                <div class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4">
+                </a>
+                <a href="<?= base_url('project/mandrapostel') ?>" class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4 text-dark">
                     <img src="<?= base_url('public/assets/img/project-thumbnail/mandrapostel.png') ?>" class="project-thumb" width="100%" alt="">
                     <p class="font-nunito text-center mt-3">Data Management System For Post and Information Technology Operators</p>
-                </div>
-                <div class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4">
+                </a>
+                <a href="<?= base_url('project/ptrksn') ?>" class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4 text-dark">
                     <img src="<?= base_url('public/assets/img/project-thumbnail/ptrksn.png') ?>" class="project-thumb" width="100%" alt="">
                     <p class="font-nunito text-center mt-3">Inter-Institutional Activity Management System</p>
-                </div>
-                <div class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4">
+                </a>
+                <a href="<?= base_url('project/edu-bmn') ?>" class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4 text-dark">
                     <img src="<?= base_url('public/assets/img/project-thumbnail/edubmn.png') ?>" class="project-thumb" width="100%" alt="">
                     <p class="font-nunito text-center mt-3">State Property Data Management System For Parepare City State Islamic Institute</p>
-                </div>
-                <div class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4">
+                </a>
+                <a href="<?= base_url('project/inventoman') ?>" class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4 text-dark">
                     <img src="<?= base_url('public/assets/img/project-thumbnail/inventoman.png') ?>" class="project-thumb" width="100%" alt="">
                     <p class="font-nunito text-center mt-3">PT Daytech Tetra Sindo Inventory Asset Data Management System</p>
-                </div>
-                <div class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4">
+                </a>
+                <a href="<?= base_url('project/simple-oms-woowprint') ?>" class="col-md-3 col-sm-4 col-xs-6 col-12 mb-4 text-dark">
                     <img src="<?= base_url('public/assets/img/project-thumbnail/woowprint.png') ?>" class="project-thumb" width="100%" alt="">
                     <p class="font-nunito text-center mt-3">Simple Order Management System For Woowprint Digital Media Printing Service</p>
-                </div>
+                </a>
             </div>
         </div>
     </section>

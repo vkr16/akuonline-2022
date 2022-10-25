@@ -41,6 +41,14 @@ $routes->get('/projects', 'Home::projects');
 $routes->post('/contact/sendmail', 'Home::contactSendMail');
 
 
+/**
+ * Projects
+ */
+$routes->get('/project/wash-inn-garage', 'Project::washinngarage');
+$routes->get('/project/co-lab', 'Project::colab');
+
+
+
 /*
  * --------------------------------------------------------------------
  * Additional Routing

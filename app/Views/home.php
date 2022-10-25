@@ -19,7 +19,11 @@
                 <span class="navbar-brand mb-0 h1">
                     <a href="<?= base_url('') ?>"><img src="public/assets/img/logo.png" width="60px" alt=""></a>
                 </span>
-                <a href="#contact-section" class="btn btn-red rounded-0">Contact Me</a>
+                <span>
+                    <a href="<?= base_url('projects') ?>" class="btn btn-outline-red rounded-0 me-3">Projects</a>
+                    <a href="<?= base_url('#contact-section') ?>" class="btn btn-outline-red rounded-0 me-3">Contact Me</a>
+                    <a href="<?= base_url('') ?>" class="btn btn-red rounded-0">Home</a>
+                </span>
             </div>
         </nav>
     </section>
@@ -83,15 +87,15 @@
                         <a href="<?= base_url('projects') ?>" class="btn btn-red rounded-0">Show all <i class="fa-solid fa-arrow-right-long"></i></a>
                     </span>
                 </div>
-                <div class="col-md-3 col-sm-6 p-2">
+                <a href="<?= base_url('project/mandrapostel') ?>" class="col-md-3 col-sm-6 p-2">
                     <img src="public/assets/img/project-thumbnail/mandrapostel.png" width="100%" alt="" class="project-thumb">
-                </div>
-                <div class="col-md-3 col-sm-6 p-2">
+                </a>
+                <a href="<?= base_url('project/ptrksn') ?>" class="col-md-3 col-sm-6 p-2">
                     <img src="public/assets/img/project-thumbnail/ptrksn.png" width="100%" alt="" class="project-thumb">
-                </div>
-                <div class="col-md-3 col-sm-6 p-2">
+                </a>
+                <a href="<?= base_url('project/edu-bmn') ?>" class="col-md-3 col-sm-6 p-2">
                     <img src="public/assets/img/project-thumbnail/edubmn.png" width="100%" alt="" class="project-thumb">
-                </div>
+                </a>
             </div>
         </div>
     </section>

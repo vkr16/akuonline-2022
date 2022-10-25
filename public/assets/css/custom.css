@@ -15,12 +15,23 @@
 
 /* Buttons */
 .btn-red{
-    background-color: #ef4444;
     color:#ffffff;
+    background-color: #ef4444;
 }
 .btn-red:hover,.btn-red:active,.btn-red:focus{
     background-color: #ffffff !important;
     color:#ef4444 !important;
+    border-color:#ef4444 !important;
+}
+
+.btn-outline-red{
+    color:#ef4444 !important;
+    background-color: #ffffff !important;
+    border-color:#ef4444 !important;
+}
+.btn-outline-red:hover,.btn-outline-red:active,.btn-outline-red:focus{
+    color:#ffffff !important;
+    background-color: #ef4444 !important;
     border-color:#ef4444 !important;
 }
 
