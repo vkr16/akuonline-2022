@@ -81,7 +81,7 @@
                     <li>MariaDB / MySQL Database</li>
                 </ul>
                 <p class="fw-semibold mb-0">App Description</p>
-                <p style="text-align: justify">This application is made to manage order data and business management of "Wash Inn Garage" car wash & detailing service. The most important feature provided by this application is managing customer order data, starting from receiving customer orders, processing orders, to printing invoices and making monthly data recapitulation reports.</p>
+                <p style="text-align: justify">This application was made to manage order data and business management of "Wash Inn Garage" car wash & detailing service. The most important feature provided by this application is managing customer order data, starting from receiving customer orders, processing orders, to printing invoices and making monthly data recapitulation reports.</p>
             </div>
         </div>
     </section>

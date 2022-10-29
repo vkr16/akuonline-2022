@@ -15,4 +15,14 @@ class Project extends BaseController
     {
         return view('projects/colab');
     }
+
+    public function mandrapostel()
+    {
+        return view('projects/mandrapostel');
+    }
+
+    public function ptrksn()
+    {
+        return view('projects/ptrksn');
+    }
 }

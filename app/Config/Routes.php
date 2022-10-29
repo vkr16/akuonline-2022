@@ -46,6 +46,8 @@ $routes->post('/contact/sendmail', 'Home::contactSendMail');
  */
 $routes->get('/project/wash-inn-garage', 'Project::washinngarage');
 $routes->get('/project/co-lab', 'Project::colab');
+$routes->get('/project/mandrapostel', 'Project::mandrapostel');
+$routes->get('/project/ptrksn', 'Project::ptrksn');
 
 
 
