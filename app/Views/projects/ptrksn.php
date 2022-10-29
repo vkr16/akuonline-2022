@@ -77,7 +77,7 @@
                     <li>HTML</li>
                     <li>CSS</li>
                     <li>Javascript</li>
-                    <li>Bootstrap 4 Front-End Kit</li>
+                    <li>Bootstrap 5 Front-End Kit</li>
                     <li>jQuery 3.6</li>
                     <li>MariaDB / MySQL Database</li>
                 </ul>

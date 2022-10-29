@@ -20,7 +20,9 @@ $routes->setDefaultNamespace('App\Controllers');
 $routes->setDefaultController('Home');
 $routes->setDefaultMethod('index');
 $routes->setTranslateURIDashes(false);
-$routes->set404Override();
+$routes->set404Override(function () {
+    return view('errors/404');
+});
 // The Auto Routing (Legacy) is very dangerous. It is easy to create vulnerable apps
 // where controller filters or CSRF protection are bypassed.
 // If you don't want to define all routes, please use the Auto Routing (Improved).
@@ -48,6 +50,9 @@ $routes->get('/project/wash-inn-garage', 'Project::washinngarage');
 $routes->get('/project/co-lab', 'Project::colab');
 $routes->get('/project/mandrapostel', 'Project::mandrapostel');
 $routes->get('/project/ptrksn', 'Project::ptrksn');
+$routes->get('/project/edu-bmn', 'Project::edubmn');
+$routes->get('/project/inventoman', 'Project::inventoman');
+$routes->get('/project/simple-oms-woowprint', 'Project::woowprint');
 
 
 

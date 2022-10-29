@@ -49,9 +49,15 @@
     transform: scale(0.97);
     transition-duration: 0.2s;
 }
+
 .project-thumb:hover,.project-thumb:hover + p{
     transform: scale(1);
     transition-duration: 0.2s;
+}
+
+.wh-screen {
+    width: 100vw;
+    height: 100vh;
 }
 
 /* Config Override */

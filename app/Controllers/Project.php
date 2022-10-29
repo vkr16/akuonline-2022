@@ -25,4 +25,19 @@ class Project extends BaseController
     {
         return view('projects/ptrksn');
     }
+
+    public function edubmn()
+    {
+        return view('projects/edubmn');
+    }
+
+    public function inventoman()
+    {
+        return view('projects/inventoman');
+    }
+
+    public function woowprint()
+    {
+        return view('projects/woowprint');
+    }
 }
