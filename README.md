@@ -1,3 +1,9 @@
+# I know right, I'm too lazy to edit this ReadMe file
+
+## So i will just let the codeigniter readme decorate my repo
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
