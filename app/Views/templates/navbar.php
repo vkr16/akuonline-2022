@@ -7,6 +7,7 @@
             <span>
                 <a href="<?= base_url('projects') ?>" class="btn <?= $nav_pos == 'projects' ? 'btn-red' : 'btn-outline-red' ?> rounded-0 me-3">Projects</a>
                 <a href="<?= base_url('#contact-section') ?>" class="btn btn-outline-red rounded-0 me-3">Contact Me</a>
+                <a href="https://fma.my.id" class="btn btn-outline-red rounded-0 me-3">Tools</a>
                 <a href="<?= base_url('') ?>" class="btn <?= $nav_pos == 'home' ? 'btn-red' : 'btn-outline-red' ?> rounded-0">Home</a>
             </span>
         </div>
