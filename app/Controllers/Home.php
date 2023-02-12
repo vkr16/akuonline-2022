@@ -6,7 +6,8 @@ class Home extends BaseController
 {
     public function index()
     {
-        return view('home');
+        $data['nav_pos'] = "home";
+        return view('home', $data);
     }
 
     public function contactSendMail()
@@ -28,6 +29,7 @@ class Home extends BaseController
 
     public function projects()
     {
-        return view('projects');
+        $data['nav_pos'] = 'projects';
+        return view('projects', $data);
     }
 }
