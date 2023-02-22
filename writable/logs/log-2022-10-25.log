@@ -1,0 +1,9 @@
+CRITICAL - 2022-10-25 01:23:03 --> Invalid file: projects/colab.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('projects/colab.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('projects/colab', [], true)
+ 3 APPPATH\Controllers\Project.php(16): view('projects/colab')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Project->colab()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Project))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
