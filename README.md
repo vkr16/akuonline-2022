@@ -1,70 +1,29 @@
-# I know right, I'm too lazy to edit this ReadMe file
+<p align="center">
+<img src="https://github.com/vkr16/akuonline-2022/blob/main/public/assets/img/logo.png?raw=true" alt"Inventoman logo" width="20%"></img>
+<div align="center">
+<img src="https://img.shields.io/badge/App Version-1.1-orange"></img> &nbsp; 
+<img src="https://img.shields.io/badge/PHP%20Version-8.1.10-blue"></img> &nbsp;
+<img src="https://img.shields.io/badge/CodeIgniter-4.2.6-red"></img> &nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-5.2.1-blueviolet"></img> &nbsp;
+<img src="https://img.shields.io/badge/JQuery-3.6.1-blue"></img> &nbsp;
+</div>
+</p>
 
-## So i will just let the codeigniter readme decorate my repo
+---
+# Personal Project : AkuOnline Project
+
+Welcome to my personal project repository! This is a work of mine that I've done on the AkuOnline project.
+
+# Project Overview
+
+AkuOnline is the name of my website which includes various information about me and my portfolio as well as some free online tools that I provide for anyone to use such as url shorteners, qr code generators and many other tools will be coming soon.
+
+# Contact Me
+
+If you have any questions about this project or would like to discuss a potential freelance opportunity, please feel free to contact me. My email address is fikri.droid16@gmail.com or visit my web page at [akuonline.my.id](https://akuonline.my.id).
+
+Thank you for taking the time to review my project portfolio!
 
 
-
-# CodeIgniter 4 Application Starter
-
-## What is CodeIgniter?
-
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](http://codeigniter.com).
-
-This repository holds a composer-installable app starter.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
-
-More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums.
-
-The user guide corresponding to this version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
-
-## Installation & updates
-
-`composer create-project codeigniter4/appstarter` then `composer update` whenever
-there is a new release of the framework.
-
-When updating, check the release notes to see if there are any changes you might need to apply
-to your `app` folder. The affected files can be copied or merged from
-`vendor/codeigniter4/framework/app`.
-
-## Setup
-
-Copy `env` to `.env` and tailor for your app, specifically the baseURL
-and any database settings.
-
-## Important Change with index.php
-
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
-
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
-
-**Please** read the user guide for a better explanation of how CI4 works!
-
-## Repository Management
-
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
-
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
-
-## Server Requirements
-
-PHP version 7.4 or higher is required, with the following extensions installed:
-
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
-
-Additionally, make sure that the following extensions are enabled in your PHP:
-
-- json (enabled by default - don't turn it off)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
-- xml (enabled by default - don't turn it off)
-# akuonline-2022
+<hr>
+<p align="center">&copy; 2022 Fikri Miftah Akmaludin </p>
