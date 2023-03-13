@@ -18,6 +18,8 @@ Welcome to my personal project repository! This is a work of mine that I've done
 
 AkuOnline is the name of my website which includes various information about me and my portfolio as well as some free online tools that I provide for anyone to use such as url shorteners, qr code generators and many other tools will be coming soon.
 
+You can visit it here : [AkuOnline Web](https://akuonline.my.id)
+
 # Contact Me
 
 If you have any questions about this project or would like to discuss a potential freelance opportunity, please feel free to contact me. My email address is fikri.droid16@gmail.com or visit my web page at [akuonline.my.id](https://akuonline.my.id).
