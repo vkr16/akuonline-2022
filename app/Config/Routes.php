@@ -39,6 +39,7 @@ $routes->set404Override(function () {
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 $routes->get('/projects', 'Home::projects');
+$routes->get('/about-me', 'Home::aboutme');
 
 $routes->post('/contact/sendmail', 'Home::contactSendMail');
 

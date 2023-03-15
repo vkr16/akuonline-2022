@@ -32,4 +32,10 @@ class Home extends BaseController
         $data['nav_pos'] = 'projects';
         return view('projects', $data);
     }
+
+    public function aboutme()
+    {
+        $data['nav_pos'] = 'aboutme';
+        return view('about_me', $data);
+    }
 }
