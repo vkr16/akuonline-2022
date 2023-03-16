@@ -31,7 +31,7 @@
         <div class="container-md my-md-4 py-4" style="max-width:1080px">
             <p class="font-nunito-sans fs-5 fw-semibold"><span class="text-slate"><i class="fa-solid fa-graduation-cap" style="color: #007ec6"></i>&nbsp; Education</span> </p>
             <ul>
-                <li>
+                <li style="list-style: none;">
                     <img src="https://img.shields.io/static/v1?label=Brawijaya University&message=2018-2022&color=007ec6&style=for-the-badge" alt="Brawijaya University (2018-2022)" class="d-md-inline d-none">
 
                     <img src="https://img.shields.io/static/v1?label=%20&message=Brawijaya University&color=555&style=for-the-badge" class="d-md-none">
@@ -42,7 +42,7 @@
                         <li>GPA : 3.54</li>
                     </ul>
                 </li>
-                <li class="mt-3">
+                <li class="mt-3" style="list-style: none;">
                     <img src="https://img.shields.io/static/v1?label=SMK Telkom Jakarta&message=2015-2018&color=007ec6&style=for-the-badge" class="d-md-inline d-none">
                     <img src="https://img.shields.io/static/v1?label=%20&message=SMK Telkom Jakarta&color=555&style=for-the-badge" class="d-md-none">
                     <ul>
@@ -58,7 +58,7 @@
         <div class="container-md my-md-4 py-4" style="max-width:1080px">
             <p class="font-nunito-sans fs-5 fw-semibold"><span class="text-slate"><i class="fa-solid fa-briefcase" style="color: #732ff9"></i>&nbsp; Experience</span> </p>
             <ul>
-                <li>
+                <li style="list-style: none;">
                     <img src="https://img.shields.io/static/v1?label=Fastwork.id&message=Aug 2022-Now&color=732ff9&style=for-the-badge" class="d-md-inline d-none">
 
                     <img src="https://img.shields.io/static/v1?label=%20&message=Fastwork.id&color=555&style=for-the-badge" class="d-md-none">
@@ -75,7 +75,7 @@
                         </li>
                     </ul>
                 </li>
-                <li class="mt-3">
+                <li class="mt-3" style="list-style: none;">
                     <img src="https://img.shields.io/static/v1?label=Wash Inn Garage&message=Jan 2022-Feb 2022&color=732ff9&style=for-the-badge" class="d-md-inline d-none">
                     <img src="https://img.shields.io/static/v1?label=%20&message=Wash Inn Garage&color=555&style=for-the-badge" class="d-md-none">
                     <ul>
@@ -91,7 +91,7 @@
                         </li>
                     </ul>
                 </li>
-                <li class="mt-3">
+                <li class="mt-3" style="list-style: none;">
                     <img src="https://img.shields.io/static/v1?label=PT. Graha Karya Informasi&message=Oct 2017-Dec 2017&color=732ff9&style=for-the-badge" class="d-md-inline d-none">
                     <img src="https://img.shields.io/static/v1?label=%20&message=PT. Graha Karya Informasi&color=555&style=for-the-badge" class="d-md-none">
                     <ul>
