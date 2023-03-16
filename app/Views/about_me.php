@@ -146,13 +146,17 @@
         </div>
     </section>
 
-
-    <section id="footer-section">
-        <div class="container-md mt-5 py-5 text-center" style="max-width: 1080px">
-            <h4 class="text-slate font-signika-negative fw-semibold">Aku<span class="text-red">Online</span></h4>
-            <p class="font-nunito-sans text-muted">&copy; 2022 AkuOnline by Fikri Miftah A.</p>
+    <section id="cv-learning">
+        <div class="container-md my-md-4 py-4" style="max-width:1080px">
+            <p class="font-nunito-sans fs-5 fw-semibold"><span class="text-slate"><i class="fa-solid fa-code-branch" style="color: #339933"></i>&nbsp; Currently Learning</span></p>
+            <ul style="list-style: none;">
+                <li><img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=Node JS&color=339933&style=for-the-badge&logo=node.js&logoColor=339933&labelColor=ddd"> &nbsp;</li>
+            </ul>
         </div>
     </section>
+
+
+    <?= $this->include('templates/footer') ?>
 
     <script src="public/assets/library/bootstrap-5.2.1/js/bootstrap.bundle.min.js"></script>
     <script src="public/assets/library/jquery-3.6.1.min.js"></script>

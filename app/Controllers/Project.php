@@ -8,36 +8,57 @@ class Project extends BaseController
 {
     public function washinngarage()
     {
-        return view('projects/washinngarage');
+        $data = [
+            'nav_pos' => 'projects'
+        ];
+        return view('projects/washinngarage', $data);
     }
 
     public function colab()
     {
-        return view('projects/colab');
+        $data = [
+            'nav_pos' => 'projects'
+        ];
+        return view('projects/colab', $data);
     }
 
     public function mandrapostel()
     {
-        return view('projects/mandrapostel');
+        $data = [
+            'nav_pos' => 'projects'
+        ];
+        return view('projects/mandrapostel', $data);
     }
 
     public function ptrksn()
     {
-        return view('projects/ptrksn');
+        $data = [
+            'nav_pos' => 'projects'
+        ];
+        return view('projects/ptrksn', $data);
     }
 
     public function edubmn()
     {
-        return view('projects/edubmn');
+        $data = [
+            'nav_pos' => 'projects'
+        ];
+        return view('projects/edubmn', $data);
     }
 
     public function inventoman()
     {
-        return view('projects/inventoman');
+        $data = [
+            'nav_pos' => 'projects'
+        ];
+        return view('projects/inventoman', $data);
     }
 
     public function woowprint()
     {
-        return view('projects/woowprint');
+        $data = [
+            'nav_pos' => 'projects'
+        ];
+        return view('projects/woowprint', $data);
     }
 }

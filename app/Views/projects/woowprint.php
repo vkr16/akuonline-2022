@@ -14,20 +14,7 @@
 
 <body>
 
-    <section id="navbar-section">
-        <nav class="navbar bg-white">
-            <div class="container-md" style="max-width:1080px">
-                <span class="navbar-brand mb-0 h1">
-                    <a href="<?= base_url('') ?>"><img src="<?= base_url('public/assets/img/logo.png') ?>" width="60px" alt=""></a>
-                </span>
-                <span>
-                    <a href="<?= base_url('projects') ?>" class="btn btn-red rounded-0 me-3">Projects</a>
-                    <a href="<?= base_url('#contact-section') ?>" class="btn btn-outline-red rounded-0 me-3">Contact Me</a>
-                    <a href="<?= base_url('') ?>" class="btn btn-outline-red rounded-0">Home</a>
-                </span>
-            </div>
-        </nav>
-    </section>
+    <?= $this->include('templates/navbar') ?>
 
     <section id="projects-section">
         <div class="container-md my-5 py-5" style="max-width: 1080px">
@@ -88,12 +75,7 @@
         </div>
     </section>
 
-    <section id="footer-section">
-        <div class="container-md mt-5 py-5 text-center" style="max-width: 1080px">
-            <h4 class="text-slate font-signika-negative fw-semibold">Aku<span class="text-red">Online</span></h4>
-            <p class="font-nunito-sans text-muted">&copy; 2022 AkuOnline by Fikri Miftah A.</p>
-        </div>
-    </section>
+    <?= $this->include('templates/footer') ?>
 
     <script src="<?= base_url('public/assets/library/bootstrap-5.2.1/js/bootstrap.bundle.min.js') ?>"></script>
 </body>
