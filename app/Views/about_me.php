@@ -22,31 +22,32 @@
             <p class="col-md-10 mx-auto text-center font-nunito-sans text-slate">
                 I am a graduate of Computer Engineering from Brawijaya University who has a high interest in information technology, computer networks, and programming, especially in terms of web development.
             </p>
-            <a href="https://www.github.com/vkr16/" target="_blank" class="btn btn-outline-dark py-1 rounded-1 mt-2"><i class="fa-brands fa-github"></i>&nbsp; GitHub</a>
+            <a href="https://www.github.com/vkr16/" target="_blank" class="btn btn-outline-dark py-1 rounded-1 mt-2"><i class="fa-brands fa-github"></i>&nbsp; GitHub</a> &nbsp;
+            <a href="https://drive.akuonline.my.id/wl/?id=5H2ZF8u1gla6cAYBS2wHAmqnDKVfi5BB&fmode=download" target="_blank" class="btn btn-outline-red py-1 rounded-1 mt-2"><i class="fa-solid fa-file-lines"></i>&nbsp; Download CV</a>
         </div>
     </section>
 
 
     <section id="cv-edu" class="bg-light">
         <div class="container-md my-md-4 py-4" style="max-width:1080px">
-            <p class="font-nunito-sans fs-5 fw-semibold"><span class="text-slate"><i class="fa-solid fa-graduation-cap" style="color: #007ec6"></i>&nbsp; Education</span> </p>
+            <p class="font-nunito-sans fs-5 fw-semibold"><span class="text-slate"><i class="fa-solid fa-graduation-cap" style="color: #ff4444"></i>&nbsp; Education</span> </p>
             <ul>
                 <li style="list-style: none;">
-                    <img src="https://img.shields.io/static/v1?label=Brawijaya University&message=2018-2022&color=007ec6&style=for-the-badge" alt="Brawijaya University (2018-2022)" class="d-md-inline d-none">
+                    <img src="https://img.shields.io/static/v1?label=Brawijaya University&message=2018-2022&color=ff4444&style=for-the-badge&labelColor=1e293b" alt="Brawijaya University (2018-2022)" class="d-md-inline d-none">
 
-                    <img src="https://img.shields.io/static/v1?label=%20&message=Brawijaya University&color=555&style=for-the-badge" class="d-md-none">
+                    <img src="https://img.shields.io/static/v1?label=%20&message=Brawijaya University&color=1e293b&style=for-the-badge" class="d-md-none">
                     <ul>
-                        <li class="d-md-none"> <img src="https://img.shields.io/static/v1?label=%20&message=2018-2022&color=007ec6&style=for-the-badge"></li>
+                        <li class="d-md-none"> <img src="https://img.shields.io/static/v1?label=%20&message=2018-2022&color=ff4444&style=for-the-badge&labelColor=1e293b"></li>
                         <li>Bachelor Degree</li>
                         <li>Computer Engineering</li>
                         <li>GPA : 3.54</li>
                     </ul>
                 </li>
                 <li class="mt-3" style="list-style: none;">
-                    <img src="https://img.shields.io/static/v1?label=SMK Telkom Jakarta&message=2015-2018&color=007ec6&style=for-the-badge" class="d-md-inline d-none">
-                    <img src="https://img.shields.io/static/v1?label=%20&message=SMK Telkom Jakarta&color=555&style=for-the-badge" class="d-md-none">
+                    <img src="https://img.shields.io/static/v1?label=SMK Telkom Jakarta&message=2015-2018&color=ff4444&style=for-the-badge&labelColor=1e293b" class="d-md-inline d-none">
+                    <img src="https://img.shields.io/static/v1?label=%20&message=SMK Telkom Jakarta&color=1e293b&style=for-the-badge" class="d-md-none">
                     <ul>
-                        <li class="d-md-none"> <img src="https://img.shields.io/static/v1?label=%20&message=2015-2018&color=007ec6&style=for-the-badge"></li>
+                        <li class="d-md-none"> <img src="https://img.shields.io/static/v1?label=%20&message=2015-2018&color=ff4444&style=for-the-badge&labelColor=1e293b"></li>
                         <li>Computer & Network Engineering</li>
                     </ul>
                 </li>
@@ -56,14 +57,14 @@
 
     <section id="cv-experience">
         <div class="container-md my-md-4 py-4" style="max-width:1080px">
-            <p class="font-nunito-sans fs-5 fw-semibold"><span class="text-slate"><i class="fa-solid fa-briefcase" style="color: #732ff9"></i>&nbsp; Experience</span> </p>
+            <p class="font-nunito-sans fs-5 fw-semibold"><span class="text-slate"><i class="fa-solid fa-briefcase" style="color: #ff4444"></i>&nbsp; Experience</span> </p>
             <ul>
                 <li style="list-style: none;">
-                    <img src="https://img.shields.io/static/v1?label=Fastwork.id&message=Aug 2022-Now&color=732ff9&style=for-the-badge" class="d-md-inline d-none">
+                    <img src="https://img.shields.io/static/v1?label=Fastwork.id&message=Aug 2022-Now&color=ff4444&style=for-the-badge&labelColor=1e293b" class="d-md-inline d-none">
 
-                    <img src="https://img.shields.io/static/v1?label=%20&message=Fastwork.id&color=555&style=for-the-badge" class="d-md-none">
+                    <img src="https://img.shields.io/static/v1?label=%20&message=Fastwork.id&color=1e293b&style=for-the-badge" class="d-md-none">
                     <ul>
-                        <li class="d-md-none"> <img src="https://img.shields.io/static/v1?label=%20&message=Aug 2022-Now&color=732ff9&style=for-the-badge"></li>
+                        <li class="d-md-none"> <img src="https://img.shields.io/static/v1?label=%20&message=Aug 2022-Now&color=ff4444&style=for-the-badge&labelColor=1e293b"></li>
                         <li>PHP Web Application Developer / Programmer</li>
                         <li>Freelance</li>
                         <li>Job Description :
@@ -76,10 +77,10 @@
                     </ul>
                 </li>
                 <li class="mt-3" style="list-style: none;">
-                    <img src="https://img.shields.io/static/v1?label=Wash Inn Garage&message=Jan 2022-Feb 2022&color=732ff9&style=for-the-badge" class="d-md-inline d-none">
-                    <img src="https://img.shields.io/static/v1?label=%20&message=Wash Inn Garage&color=555&style=for-the-badge" class="d-md-none">
+                    <img src="https://img.shields.io/static/v1?label=Wash Inn Garage&message=Jan 2022-Feb 2022&color=ff4444&style=for-the-badge&labelColor=1e293b" class="d-md-inline d-none">
+                    <img src="https://img.shields.io/static/v1?label=%20&message=Wash Inn Garage&color=1e293b&style=for-the-badge" class="d-md-none">
                     <ul>
-                        <li class="d-md-none"> <img src="https://img.shields.io/static/v1?label=%20&message=Jan 2022-Feb 2022&color=732ff9&style=for-the-badge"></li>
+                        <li class="d-md-none"> <img src="https://img.shields.io/static/v1?label=%20&message=Jan 2022-Feb 2022&color=ff4444&style=for-the-badge&labelColor=1e293b"></li>
                         <li>PHP Web Application Developer / Programmer</li>
                         <li>Freelance</li>
                         <li>Job Description :
@@ -92,10 +93,10 @@
                     </ul>
                 </li>
                 <li class="mt-3" style="list-style: none;">
-                    <img src="https://img.shields.io/static/v1?label=PT. Graha Karya Informasi&message=Oct 2017-Dec 2017&color=732ff9&style=for-the-badge" class="d-md-inline d-none">
-                    <img src="https://img.shields.io/static/v1?label=%20&message=PT. Graha Karya Informasi&color=555&style=for-the-badge" class="d-md-none">
+                    <img src="https://img.shields.io/static/v1?label=PT. Graha Karya Informasi&message=Oct 2017-Dec 2017&color=ff4444&style=for-the-badge&labelColor=1e293b" class="d-md-inline d-none">
+                    <img src="https://img.shields.io/static/v1?label=%20&message=PT. Graha Karya Informasi&color=1e293b&style=for-the-badge" class="d-md-none">
                     <ul>
-                        <li class="d-md-none"> <img src="https://img.shields.io/static/v1?label=%20&message=Oct 2017-Dec 2017&color=732ff9&style=for-the-badge"></li>
+                        <li class="d-md-none"> <img src="https://img.shields.io/static/v1?label=%20&message=Oct 2017-Dec 2017&color=ff4444&style=for-the-badge&labelColor=1e293b"></li>
                         <li>PHP Web Application Developer / Programmer</li>
                         <li>Internship</li>
                         <li>Job Description :
@@ -112,18 +113,19 @@
 
     <section id="cv-stacks" class="bg-light">
         <div class="container-md my-md-4 py-4" style="max-width:1080px">
-            <p class="font-nunito-sans fs-5 fw-semibold"><span class="text-slate"><i class="fa-solid fa-code" style="color: #d8634c"></i>&nbsp; Languages</span> </p>
+            <p class="font-nunito-sans fs-5 fw-semibold"><span class="text-slate"><i class="fa-solid fa-code" style="color: #ff4444"></i>&nbsp; Languages</span> </p>
             <ul style="list-style: none;" class="mb-5">
                 <li>
                     <img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=HTML 5&color=E34F26&style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=ddd"> &nbsp;
                     <img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=CSS 3&color=1572B6&style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=ddd"> &nbsp;
-                    <img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=Javascript&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=555"> &nbsp;
+                    <img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=Javascript&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1e293b"> &nbsp;
                     <img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=PHP 7%2B&color=777BB4&style=for-the-badge&logo=php&logoColor=777BB4&labelColor=ddd"> &nbsp;
+                    <img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=mysql&color=4479A1&style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=ddd"> &nbsp;
                     <img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=C%2B%2B&color=00599C&style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=ddd"> &nbsp;
                 </li>
             </ul>
 
-            <p class="font-nunito-sans fs-5 fw-semibold mt-5"><span class="text-slate"><i class="fa-solid fa-rocket" style="color: #d8634c"></i>&nbsp; Frameworks & Libraries</span> </p>
+            <p class="font-nunito-sans fs-5 fw-semibold mt-5"><span class="text-slate"><i class="fa-solid fa-rocket" style="color: #ff4444"></i>&nbsp; Frameworks & Libraries</span> </p>
             <ul style="list-style: none;">
                 <li>
                     <img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=Bootstrap&color=7952B3&style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=ddd"> &nbsp;
@@ -133,7 +135,7 @@
                 </li>
             </ul>
 
-            <p class="font-nunito-sans fs-5 fw-semibold mt-5"><span class="text-slate"><i class="fa-solid fa-fire" style="color: #d8634c"></i>&nbsp; Tools</span> </p>
+            <p class="font-nunito-sans fs-5 fw-semibold mt-5"><span class="text-slate"><i class="fa-solid fa-fire" style="color: #ff4444"></i>&nbsp; Tools</span> </p>
             <ul style="list-style: none;">
                 <li>
                     <img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=GitHub&color=181717&style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ddd"> &nbsp;
@@ -148,7 +150,7 @@
 
     <section id="cv-learning">
         <div class="container-md my-md-4 py-4" style="max-width:1080px">
-            <p class="font-nunito-sans fs-5 fw-semibold"><span class="text-slate"><i class="fa-solid fa-code-branch" style="color: #339933"></i>&nbsp; Currently Learning</span></p>
+            <p class="font-nunito-sans fs-5 fw-semibold"><span class="text-slate"><i class="fa-solid fa-code-branch" style="color: #ff4444"></i>&nbsp; Currently Learning</span></p>
             <ul style="list-style: none;">
                 <li><img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=Node JS&color=339933&style=for-the-badge&logo=node.js&logoColor=339933&labelColor=ddd"> &nbsp;</li>
             </ul>
