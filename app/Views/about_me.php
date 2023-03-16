@@ -16,12 +16,13 @@
     <?= $this->include('templates/navbar.php') ?>
 
     <section id="cv-header">
-        <div class="container-md my-md-4 py-4" style="max-width:1080px">
+        <div class="container-md my-md-4 py-4 text-center" style="max-width:1080px">
             <p class="font-signika-negative text-slate fw-bolder fs-1 text-center mb-0">FIKRI MIFTAH AKMALUDIN</p>
             <p class="font-nunito-sans fs-4 fw-bold text-center text-slate">Web Developer</p>
             <p class="col-md-10 mx-auto text-center font-nunito-sans text-slate">
                 I am a graduate of Computer Engineering from Brawijaya University who has a high interest in information technology, computer networks, and programming, especially in terms of web development.
             </p>
+            <a href="https://www.github.com/vkr16/" target="_blank" class="btn btn-outline-dark py-1 rounded-1 mt-2"><i class="fa-brands fa-github"></i>&nbsp; GitHub</a>
         </div>
     </section>
 
