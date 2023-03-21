@@ -69,6 +69,12 @@
                 </ul>
                 <p class="fw-semibold mb-0">App Description</p>
                 <p style="text-align: justify">This application was made to manage order data and business management of "Wash Inn Garage" car wash & detailing service. The most important feature provided by this application is managing customer order data, starting from receiving customer orders, processing orders, to printing invoices and making monthly data recapitulation reports.</p>
+
+                <p class="fw-semibold mb-0">GitHub Repository & Live Demo</p>
+                <a href="https://github.com/vkr16/washinngarage" target="_blank"><img src="https://img.shields.io/static/v1?label=GitHub&message=vkr16/washinngarage&color=ff4444&show-icon=true&logo=github&logoColor=fff&labelColor=181717&style=for-the-badge" class="mt-2 d-inline mb-4" alt=""></a>
+
+                <br>
+                <button disabled target="_blank" class="btn btn btn-red d-inline rounded-0">Live Demo Unavailable</button>
             </div>
         </div>
     </section>

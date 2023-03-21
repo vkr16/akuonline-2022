@@ -70,6 +70,20 @@
                 </ul>
                 <p class="fw-semibold mb-0">App Description</p>
                 <p style="text-align: justify">This application was developed to manage state property data by Parepare City State Islamic Institute.</p>
+
+                <p class="fw-semibold mb-0">GitHub Repository & Live Demo</p>
+                <a href="https://github.com/vkr16/edu-bmn" target="_blank"><img src="https://img.shields.io/static/v1?label=GitHub&message=vkr16/edu-bmn&color=ff4444&show-icon=true&logo=github&logoColor=fff&labelColor=181717&style=for-the-badge" class="mt-2 d-inline mb-4" alt=""></a>
+                <br>
+                <ul>
+                    <li>Pre-registered account :
+                        <ul>
+                            <li>Email = admin@akuonline.my.id</li>
+                            <li>Password = admin</li>
+                        </ul>
+                    </li>
+                </ul>
+                <br>
+                <a href="https://edu-bmn.akuonline.my.id" target="_blank" class="btn btn btn-red d-inline rounded-0">View Live Demo</a>
             </div>
         </div>
     </section>

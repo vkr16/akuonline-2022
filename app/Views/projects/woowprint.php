@@ -71,6 +71,20 @@
                 </ul>
                 <p class="fw-semibold mb-0">App Description</p>
                 <p style="text-align: justify">Woow Print is a digital printing company and this application was developed to help them receive photos from customers to be printed, in other word this is a simple order management system.</p>
+
+                <p class="fw-semibold mb-0">GitHub Repository & Live Demo</p>
+                <a href="https://github.com/vkr16/woowprint" target="_blank"><img src="https://img.shields.io/static/v1?label=GitHub&message=vkr16/woowprint&color=ff4444&show-icon=true&logo=github&logoColor=fff&labelColor=181717&style=for-the-badge" class="mt-2 d-inline mb-4" alt=""></a>
+                <br>
+                <ul>
+                    <li>Pre-registered account :
+                        <ul>
+                            <li>Username = admin</li>
+                            <li>Password = admin</li>
+                        </ul>
+                    </li>
+                </ul>
+                <br>
+                <a href="https://woowprint.akuonline.my.id" target="_blank" class="btn btn btn-red d-inline rounded-0">View Live Demo</a>
             </div>
         </div>
     </section>

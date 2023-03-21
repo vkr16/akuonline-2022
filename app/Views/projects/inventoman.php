@@ -71,6 +71,23 @@
                 </ul>
                 <p class="fw-semibold mb-0">App Description</p>
                 <p style="text-align: justify">This system was developed to help companies manage and record every handover of company assets to employees and vice versa.</p>
+
+                <p class="fw-semibold mb-0">GitHub Repository & Live Demo</p>
+                <a href="https://github.com/vkr16/inventoman" target="_blank"><img src="https://img.shields.io/static/v1?label=GitHub&message=vkr16/Inventoman&color=ff4444&show-icon=true&logo=github&logoColor=fff&labelColor=181717&style=for-the-badge" class="mt-2 d-inline mb-4" alt=""></a>
+                <br>
+                <ul>
+                    <li>Pre-registered account :
+                        <ul>
+                            <li>Username = admin</li>
+                            <li>Password = admin</li>
+                        </ul>
+                    </li>
+                </ul>
+                <br>
+                <a href="https://inventoman.akuonline.my.id" target="_blank" class="btn btn btn-red d-inline rounded-0">View Live Demo</a>
+
+
+
             </div>
         </div>
     </section>

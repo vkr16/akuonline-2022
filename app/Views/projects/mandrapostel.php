@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mandrapostel - AkuOnline</title>
+    <title>SDPPI - AkuOnline</title>
     <link rel="shortcut icon" href="<?= base_url('public/assets/img/logo.png') ?>" type="image/x-icon">
     <link rel="stylesheet" href="<?= base_url('public/assets/library/bootstrap-5.2.1/css/bootstrap.min.css') ?>">
     <link rel="stylesheet" href="<?= base_url('public/assets/library/fontawesome-6.2.0/css/all.min.css') ?>">
@@ -20,7 +20,7 @@
         <div class="container-md my-5 py-5" style="max-width: 1080px">
             <h1 class="text-center font-signika-negative fw-semibold mb-0">Project Info</h1>
             <hr style="width: 128px; border: 2px solid #ef4444" class="opacity-100 mt-1 mb-1 mx-auto">
-            <h5 class="text-center font-signika-negative mt-0 mb-5">Mandrapostel</h5>
+            <h5 class="text-center font-signika-negative mt-0 mb-5">SDPPI</h5>
             <div id="carouselScreenshots" class="carousel carousel-dark slide carousel-fade" data-bs-ride="carousel">
                 <div class="carousel-indicators">
                     <?php
@@ -70,6 +70,20 @@
                 </ul>
                 <p class="fw-semibold mb-0">App Description</p>
                 <p style="text-align: justify">This application was made to manage post and information technology operators data in Indonesia by Ministry of Communication and Informatics of Republic Indonesia. The main idea of this application is to manage the data and open the access to public so people can see every single registered post and IT service provider in Indonesia.</p>
+
+                <p class="fw-semibold mb-0">GitHub Repository & Live Demo</p>
+                <a href="https://github.com/vkr16/sdppi" target="_blank"><img src="https://img.shields.io/static/v1?label=GitHub&message=vkr16/sdppi&color=ff4444&show-icon=true&logo=github&logoColor=fff&labelColor=181717&style=for-the-badge" class="mt-2 d-inline mb-4" alt=""></a>
+                <br>
+                <ul>
+                    <li>Pre-registered account :
+                        <ul>
+                            <li>Email = admin@akuonline.my.id</li>
+                            <li>Password = admin</li>
+                        </ul>
+                    </li>
+                </ul>
+                <br>
+                <a href="https://sdppi.akuonline.my.id" target="_blank" class="btn btn btn-red d-inline rounded-0">View Live Demo</a>
             </div>
         </div>
     </section>

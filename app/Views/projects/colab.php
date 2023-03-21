@@ -14,7 +14,7 @@
 
 <body>
 
-<?= $this->include('templates/navbar') ?>
+    <?= $this->include('templates/navbar') ?>
 
     <section id="projects-section">
         <div class="container-md my-5 py-5" style="max-width: 1080px">
@@ -69,6 +69,12 @@
                 </ul>
                 <p class="fw-semibold mb-0">App Description</p>
                 <p style="text-align: justify">This application was made to handle Brawijaya University Vocational Campus Laboratory & Co-Working Space booking activity. The main feature of this application is the booking system of laboratory and co-working space for the students and ofcourse the management of laboratory and available workspaces for the administrator.</p>
+
+                <p class="fw-semibold mb-0">GitHub Repository & Live Demo</p>
+                <a href="https://github.com/vkr16/co-lab" target="_blank"><img src="https://img.shields.io/static/v1?label=GitHub&message=vkr16/co-lab&color=ff4444&show-icon=true&logo=github&logoColor=fff&labelColor=181717&style=for-the-badge" class="mt-2 d-inline mb-4" alt=""></a>
+
+                <br>
+                <button disabled target="_blank" class="btn btn btn-red d-inline rounded-0">Live Demo Unavailable</button>
             </div>
         </div>
     </section>
