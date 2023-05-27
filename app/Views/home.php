@@ -18,7 +18,7 @@
     <section id="hero-section">
         <div class="d-flex flex-wrap justify-content-between container-md my-md-5 py-5" style="max-width:1080px">
             <div class="col-md-8 mt-5 pe-md-5">
-                <h2 class="text-slate font-signika-negative fw-semibold">Hi, I'am <span class="text-red">Fikri Miftah</span> and</h2>
+                <h2 class="text-slate font-signika-negative fw-semibold">Hi, I am <span class="text-red">Fikri Miftah</span> and</h2>
                 <h1 class="text-slate font-signika-negative fw-semibold display-4 lh-1">I'll Help You Build Your <span class="text-red"><br class="d-none d-md-block">Web App</span></h1>
                 <p class="text-muted font-nunito">I’m a web app developer that using PHP as my most used programming language and MySQL as my favorite database, and I’ll help you with your web development.</p>
                 <a href="#service-section" class="btn btn-red rounded-0">Learn more <i class="fa-solid fa-arrow-right-long"></i></a>
