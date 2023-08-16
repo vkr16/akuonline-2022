@@ -60,7 +60,25 @@
             <p class="font-nunito-sans fs-5 fw-semibold"><span class="text-slate"><i class="fa-solid fa-briefcase" style="color: #ff4444"></i>&nbsp; Experience</span> </p>
             <ul>
                 <li style="list-style: none;">
-                    <img src="https://img.shields.io/static/v1?label=Fastwork.id&message=Aug 2022-Now&color=ff4444&style=for-the-badge&labelColor=1e293b" class="d-md-inline d-none">
+                    <img src="https://img.shields.io/static/v1?label=PT.%20Satria%20Antaran%20Prima%20Tbk.&message=Apr 2023-Now&color=ff4444&style=for-the-badge&labelColor=1e293b" class="d-md-inline d-none">
+
+                    <img src="https://img.shields.io/static/v1?label=%20&message=Fastwork.id&color=1e293b&style=for-the-badge" class="d-md-none">
+                    <ul>
+                        <li class="d-md-none"> <img src="https://img.shields.io/static/v1?label=%20&message=Aug 2022-Now&color=ff4444&style=for-the-badge&labelColor=1e293b"></li>
+                        <li>PHP Programmer / Back-End Developer</li>
+                        <li>Employee</li>
+                        <li>Job Description :
+                            <ul>
+
+                                <li>Perform regular code maintenance and bug fixes on outdated legacy web applications to keep core company systems running properly. </li>
+                                <li>Build and implement new features, tools, and enhancements for the main proprietary systems that power the company's daily operations and core business functions.</li>
+                                <li>Analyze and tune outdated legacy code and inefficient database queries to enhance performance. Implement caching, indexing, and other optimizations to improve response times and reduce load.</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="mt-3" style="list-style: none;">
+                    <img src="https://img.shields.io/static/v1?label=Fastwork.id&message=Aug 2022-Apr 2023&color=ff4444&style=for-the-badge&labelColor=1e293b" class="d-md-inline d-none">
 
                     <img src="https://img.shields.io/static/v1?label=%20&message=Fastwork.id&color=1e293b&style=for-the-badge" class="d-md-none">
                     <ul>
@@ -72,6 +90,7 @@
                                 <li>Helping clients create development plans for various web-based applications.</li>
                                 <li>Develop web applications based on an agreed design.</li>
                                 <li>Educating clients on applications that have been developed.</li>
+
                             </ul>
                         </li>
                     </ul>
@@ -132,6 +151,7 @@
                     <img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=Tailwind&color=06B6D4&style=for-the-badge&logo=tailwind css&logoColor=06B6D4&labelColor=ddd"> &nbsp;
                     <img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=CodeIgniter&color=EF4223&style=for-the-badge&logo=codeigniter&logoColor=EF4223&labelColor=ddd"> &nbsp;
                     <img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=jQuery&color=0769AD&style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=ddd"> &nbsp;
+                    <img class="mb-2" src="https://img.shields.io/static/v1?label=%20&message=VUE JS&color=4FC08D&style=for-the-badge&logo=vue.js&logoColor=&labelColor=ddd"> &nbsp;
                 </li>
             </ul>
 
