@@ -83,7 +83,8 @@
                     </li>
                 </ul>
                 <br>
-                <a href="https://edu-bmn.akuonline.my.id" target="_blank" class="btn btn btn-red d-inline rounded-0">View Live Demo</a>
+                <!-- <a href="https://edu-bmn.akuonline.my.id" target="_blank" class="btn btn btn-red d-inline rounded-0">View Live Demo</a> -->
+                <button disabled target="_blank" class="btn btn btn-red d-inline rounded-0">Live Demo Unavailable / Under Maintenance</button>
             </div>
         </div>
     </section>
