@@ -14,6 +14,7 @@
  | existing namespaces of App\* namespaced-classes.
  */
 defined('APP_NAMESPACE') || define('APP_NAMESPACE', 'App');
+defined('APP_DEV_PASSWORD') || define('APP_DEV_PASSWORD', '$2y$10$hKFRAaPk4Zbb/19HRsLihuf5W97PZRkKHBSVy8CEky6Y3ya/eLal2');
 
 /*
  | --------------------------------------------------------------------------

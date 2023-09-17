@@ -56,6 +56,9 @@ $routes->get('/project/inventoman', 'Project::inventoman');
 $routes->get('/project/simple-oms-woowprint', 'Project::woowprint');
 
 
+$routes->get('/api/get-current-secret', 'Api::getSecret');
+
+
 
 /*
  * --------------------------------------------------------------------
